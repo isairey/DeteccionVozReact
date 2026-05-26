@@ -165,7 +165,7 @@ Sistema compatible con aplicaciones frontend y backend.
 # 📂 Estructura del proyecto
 
 ```bash
-voice-activity-detection-js/
+DeteccionVozReact/
 │
 ├── packages/
 │   ├── vad-web/
@@ -197,7 +197,7 @@ voice-activity-detection-js/
 ## 1️⃣ Instalar paquete para navegador
 
 ```bash
-npm install @ricky0123/vad-web
+npm install @isairey/vad-web
 ```
 
 ---
@@ -205,7 +205,7 @@ npm install @ricky0123/vad-web
 ## 2️⃣ Instalar paquete React
 
 ```bash
-npm install @ricky0123/vad-react
+npm install @isairey/vad-react
 ```
 
 ---
@@ -213,7 +213,7 @@ npm install @ricky0123/vad-react
 ## 3️⃣ Instalar paquete Node.js
 
 ```bash
-npm install @ricky0123/vad-node
+npm install @isairey/vad-node
 ```
 
 ---
@@ -224,7 +224,7 @@ npm install @ricky0123/vad-node
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@ricky0123/vad-web/dist/bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@isairey/vad-web/dist/bundle.min.js"></script>
 
 <script>
 async function main() {
@@ -359,7 +359,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## Ricky0123 — JavaScript Audio Developer
+## Isai Reyes — JavaScript Audio Developer
 
 Desarrollador enfocado en procesamiento de voz, inteligencia artificial y aplicaciones modernas en JavaScript 🚀
 
